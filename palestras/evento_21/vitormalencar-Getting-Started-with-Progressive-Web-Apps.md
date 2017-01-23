@@ -22,4 +22,4 @@ Tem havido muita discussão bem-vinda sobre Progressive Web Apps ultimamente. Ap
 - GitHub: https://github.com/vitormalencar
 
 ### Bio
-Desenvolvedor FrontEnd, com foco em tecnologias novas e escaláveis, graduando em sistemas de informações, Co-fundador do DEV I/O FOR , Organizer do Google developer groups eFrontIn Fortaleza, e claro grande amante de café <3.
+Desenvolvedor FrontEnd, com foco em tecnologias novas e escaláveis, graduando em sistemas de informações, Co-fundador do DEV I/O FOR , Organizador do Google developer groups e FrontIn Fortaleza, e claro grande amante de café <3.
