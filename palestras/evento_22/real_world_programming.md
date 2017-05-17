@@ -1,5 +1,4 @@
-# Título
-Real World Programming
+# Real World Programming
 
 ## Introdução
 
